@@ -3,7 +3,7 @@ const songs =[
       title:"Complicated",
       artist:"Mac Miller",
       cover:"images/complicated.jpg",
-      source:"songs/complicated.mp3"
+      source:"songs/Complicated.mp3"
    },
    {
       title:"Inside Out",
